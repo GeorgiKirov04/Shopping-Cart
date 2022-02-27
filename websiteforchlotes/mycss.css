@@ -1,0 +1,19 @@
+#type{
+    color: black;
+    position: absolute;
+ bottom:15%;
+}
+#all-cost{
+    color:black;
+    position: absolute;
+    top: 170%
+}
+#thanks{
+    
+    color:black;
+    
+    position: relative;
+    bottom: 100%;
+    right: 10%;
+}
+
